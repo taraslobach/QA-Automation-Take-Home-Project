@@ -3,7 +3,6 @@ from __future__ import annotations
 import os
 import time
 
-
 from data.constans import ErrorValidationMsg, FileCheck
 from src.ui.playground import playground
 from utils.allure import allure_steps
